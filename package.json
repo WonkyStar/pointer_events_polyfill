@@ -1,0 +1,19 @@
+{
+  "name": "pointer_events_polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill to provide support for \"pointer-events: none\".",
+  "main": "pointer_events_polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmewhort/pointer_events_polyfill.git"
+  },
+  "author": "kmewhort",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kmewhort/pointer_events_polyfilll/issues"
+  },
+  "homepage": "https://github.com/kmewhort/pointer_events_polyfilll#readme"
+}
